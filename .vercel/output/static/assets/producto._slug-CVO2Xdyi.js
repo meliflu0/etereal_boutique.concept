@@ -1,0 +1,1 @@
+import{s as e,t}from"./link-C9Z9Tb6I.js";var n=e(),r=()=>(0,n.jsxs)(`div`,{className:`py-32 text-center`,children:[(0,n.jsx)(`p`,{className:`font-serif text-4xl`,children:`Esta pieza no está disponible.`}),(0,n.jsx)(t,{to:`/coleccion`,className:`btn-outline mt-8`,children:`Ver colección`})]});export{r as notFoundComponent};
